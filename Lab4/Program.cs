@@ -64,7 +64,7 @@ class Program
                 {
              Console.Write("*");
                  }
-    Console.WriteLine();
-        }
+            Console.WriteLine();
+        } 
     }
 }
